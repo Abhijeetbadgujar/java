@@ -1,0 +1,4 @@
+enum Colours{
+	WHITE,BLACK,RED,YELLOW,PINK;
+
+}
